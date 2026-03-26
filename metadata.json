@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow Tracker",
+  "description": "A full-stack task management application with a REST API and real-time UI updates.",
+  "requestFramePermissions": []
+}
